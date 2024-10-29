@@ -1,0 +1,10 @@
+htmlTemplateFile: examples/mail.html.tmpl
+htmlOutputFile: examples/runner-farm.html
+htmlFile: examples/runner-farm.html
+host: localhost
+port: 2525
+markdownFile: "examples/runner-farm.md"
+subject: "Important Changes to the DevHub Runner Farm - Action Required"
+from: "no-reply@example.de"
+to:
+  - "example@example.de"

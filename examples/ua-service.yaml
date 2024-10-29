@@ -1,0 +1,10 @@
+htmlTemplateFile: examples/mail.html.tmpl
+htmlOutputFile: examples/ua-service.html
+htmlFile: examples/ua-service.html
+host: localhost
+port: 2525
+markdownFile: "examples/ua-service.md"
+subject: "Upcoming Change for Unified Access (UA) Service - Gateway Service"
+from: "no-reply@example.de"
+to:
+  - "example@example.de"
